@@ -1,0 +1,10 @@
+{
+  "name": "vuepress-root-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Manuel <148720-TeNNoX@users.noreply.gitlab.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.33"
+  }
+}
