@@ -6,4 +6,4 @@ Repro for vuepress bug: https://github.com/vuejs/vuepress/issues/2995
 
 ... **in the end this was one of the most fun debugging experiences, check out the issue thread 😅**
 
-(keeping this repo for the fun memory & the [ipfs-companion issue 😋](https://github.com/ipfs/ipfs-companion/issues/1047))
+(keeping this repo for the fun memory ... & the [ipfs-companion issue 😋](https://github.com/ipfs/ipfs-companion/issues/1047))
